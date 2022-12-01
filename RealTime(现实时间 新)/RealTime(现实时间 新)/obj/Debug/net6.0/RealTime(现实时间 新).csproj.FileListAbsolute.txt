@@ -1,0 +1,25 @@
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\RealTime(现实时间 新).deps.json
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\RealTime(现实时间 新).dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\RealTime(现实时间 新).pdb
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\HttpServer.dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\ModFramework.dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\OTAPI.dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\OTAPI.Runtime.dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\TerrariaServer.dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\TShockAPI.dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\HttpServer.pdb
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\HttpServer.xml
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\TerrariaServer.pdb
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\TerrariaServer.xml
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\TShockAPI.pdb
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\bin\Debug\net6.0\TShockAPI.xml
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).csproj.AssemblyReference.cache
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).GeneratedMSBuildEditorConfig.editorconfig
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).AssemblyInfoInputs.cache
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).AssemblyInfo.cs
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).csproj.CoreCompileInputs.cache
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).csproj.CopyComplete
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\refint\RealTime(现实时间 新).dll
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\RealTime(现实时间 新).pdb
+D:\下载\插件\RealTime(现实时间 新)\RealTime(现实时间 新)\obj\Debug\net6.0\ref\RealTime(现实时间 新).dll
